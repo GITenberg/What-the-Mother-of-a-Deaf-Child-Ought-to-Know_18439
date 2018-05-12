@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8029'
     url: http://www.gutenberg.org/2009/agents/8029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18439#What-the-Mother-of-a-Deaf-Child-Ought-to-Know
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2006-05-23'
 gutenberg_type: Text
